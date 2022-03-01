@@ -1,0 +1,912 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poore mans mite. A letter of a religious man of the Order of Saint Benedict, vnto a sister of his, concerning the rosarie or psalter of our blessed Ladie, commonly called the Beades.</title>
+            <author>Batt, Antonie.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1639</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00272</idno>
+            <idno type="STC">STC 1589.5</idno>
+            <idno type="STC">ESTC S90417</idno>
+            <idno type="EEBO-CITATION">57402247</idno>
+            <idno type="OCLC">ocm 57402247</idno>
+            <idno type="VID">181062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2158:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poore mans mite. A letter of a religious man of the Order of Saint Benedict, vnto a sister of his, concerning the rosarie or psalter of our blessed Ladie, commonly called the Beades.</title>
+                  <author>Batt, Antonie.</author>
+               </titleStmt>
+               <extent>68, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Widow of M. Wyon],</publisher>
+                  <pubPlace>[Douai :</pubPlace>
+                  <date>M.DC.XXXIX. [1639].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Antonie Batt. Cf. STC (2nd ed.) and Allison &amp; Rogers.</note>
+                  <note>Place of publication and printer from STC (2nd ed.).</note>
+                  <note>Signatures: A-E⁶ F⁴.</note>
+                  <note>"Printed with license of superiors."</note>
+                  <note>Head-pieces; tail-pieces; letters IHS with maltese cross on t.p.</note>
+                  <note>Reproduction of original in: University of Texas at Austin. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Customs and practices --  Early works to 1800.</term>
+               <term>Rosary --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181062:1"/>
+            <pb facs="tcp:181062:1"/>
+            <p>A POORE MANS MITE.</p>
+            <p>
+               <hi>A letter of a Religious man</hi> of the Order of Saint BENEDICT, vnto a Siſter of his, concerning the <hi>Roſarie</hi> or <hi>Pſalter</hi> of our bleſſed Ladie, Commonly called the <hi>Beades.</hi>
+            </p>
+            <p>
+               <g ref="char:cross">✚</g> IHS</p>
+            <p>Printed with licenſe of Superiors. M.DC.XXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:181062:2"/>
+            <pb n="3" facs="tcp:181062:2"/>
+            <head>A Poore Mans <hi>Mite.</hi>
+            </head>
+            <head type="sub">A Letter of a Religious Man of the Order of S. BENEDICT <hi>vnto a ſiſter of his concerning</hi> the ROSARIE or PSALTER of our bleſſed LADY commonly called the BEADES.</head>
+            <opener>
+               <salute>Deare Siſter.</salute>
+            </opener>
+            <p>I Haue ſent you a ſmall token of my no ſmal loue, a paire of plaine Beades, together with the expli<g ref="char:EOLhyphen"/>cation thereof. The<note n="(a)" place="bottom">1. <hi>Reg.</hi> 18, 19.</note> Prophet <hi>Da<g ref="char:EOLhyphen"/>uid</hi> vſed to ſing certaine ſpirituall Ditties or Songs to his Harpe, with
+<pb n="4" facs="tcp:181062:3"/>which melodie, hee ſo appeaſed the ſpirit of furie, wherewith King <hi>Saul</hi> was poſſeſſed, and grieuouſly tor<g ref="char:EOLhyphen"/>mented: that notwithſtanding hee was ſo incenſed againſt <hi>Dauid,</hi> that he would haue ſlaine him: hee was faine to forbeare, for the great eaſe hee enioyed by his melodie yea and whileſt hee ſang in his preſence, he had no power to execute his wic<g ref="char:EOLhyphen"/>ked purpoſe vpon him, as if he had enchaunted him by the ſweetneſſe thereof, as indeede it ſeemed to doe. Theſe Songs are called <hi>Pſalmes</hi> of <hi>Pſallo</hi> a latine word, which in english ſignifieth to ſing, becauſe they were ſung to the Harpe, and the whole number of them, are called <hi>Dauids Pſalter.</hi> They are re<g ref="char:EOLhyphen"/>giſtred amongſt the Bookes of Ca<g ref="char:EOLhyphen"/>nonical Scripture, and accounted a principall part thereof ſo myſte<g ref="char:EOLhyphen"/>rious, that they are appliable and
+<pb n="5" facs="tcp:181062:3"/>correſpondent to all the affections and motions of our minde what<g ref="char:EOLhyphen"/>ſoeuer. They are ſpirituall <hi>Manna,</hi>
+               <note n="(b)" place="bottom">Sapient. <hi>16.</hi> verſ. <hi>20.</hi> Exod. <hi>16.</hi> verſ. <hi>14.</hi> Num. <hi>11.</hi> verſ. <hi>7.</hi>
+               </note> hauing the taſte of euery good thing we can deſire: In regard whe<g ref="char:EOLhyphen"/>reof a certaine Father affirmeth, whatſoeuer is contayned in all the other Bookes of holy Scripture, by way of Prophecie, Doctrine, or Ex<g ref="char:EOLhyphen"/>ample; is compriſed in this by way of ſpirituall Songs, and prayſes of God, the ſeuerall Verſes whereof are, as it were, ſo many iaculatorie darts caſt vp to heauen; and there<g ref="char:EOLhyphen"/>fore they are altogether vſed in the Church-Seruice and in the Office of our bleſſed Lady, commonly called the <hi>Primmer,</hi> and in the <hi>Manuall</hi> of Prayers, as a moſt ſoueraigne and ſanctified deuotion to pleaſe God, and appeaſe the furie of our ghoſtly
+<pb n="6" facs="tcp:181062:4"/>enemie the Deuill, who like ano<g ref="char:EOLhyphen"/>ther <hi>Saul</hi> ſeeketh the deſtruction of our ſoules. The number of theſes Pſalmes are one hundred and fiftie, and are called, as I ſaid before, the <hi>Pſalter of Dauid.</hi>
+            </p>
+            <p>To the imitation of this holy Pſalter, the Church hath ordained another diuine Pſalter, called the <hi>Pſalter of Ieſus,</hi> co<g ref="char:cmbAbbrStroke">̄</g>monly ſet in the latter end of the Manuall of Prayers conſiſting alſo of the like number, that is to ſay, fifteene Petitions, with ten Inuocations to each Peti<g ref="char:EOLhyphen"/>tion. And to the ſame imitation, the Church hath inſtituted yet another Pſalter, of our bleſſed Lady, the glo<g ref="char:EOLhyphen"/>rious Virgin <hi>Mary,</hi> commonly called the <hi>Roſarie</hi> or <hi>Pſalter of our bleſſed Lady,</hi> or <hi>the Beades,</hi> conſiſting of the like number of <hi>Aue Maries,</hi> and is diuided into three parts, each part conſiſting of fiftie <hi>Aue Maries,</hi>
+               <pb n="7" facs="tcp:181062:4"/>wherevnto are added fiue <hi>Pater no<g ref="char:EOLhyphen"/>ſters,</hi> to wit, one betweene euery ten <hi>Aue Maries,</hi> and a <hi>Creede</hi> at the end.</p>
+            <p>This Pſalter is nothing inferior vnto the other two: but rather ſo much the more ſoueraigne, by how much more excellent the wordes and myſteries thereof are: The <hi>Pa<g ref="char:EOLhyphen"/>ter noſter</hi> for ſanctitie and pithyneſſe no Prayer comparable vnto it, pro<g ref="char:EOLhyphen"/>ceeding from the ſacred mouth of <hi>Chriſt,</hi>
+               <note n="(a)" place="bottom">Matth. <hi>6.</hi> verſ. <hi>9.</hi> Luc. <hi>1.</hi> verſ. <hi>29.</hi>
+               </note> and inſtituted by him as a generall forme of Prayer.</p>
+            <p>The <hi>Aue Mary,</hi> indited by the moſt bleſſed <hi>Trinitie,</hi> in heauen, and brought as an Ambaſſage, vnto the earth by the Arch-angell <hi>Gabriel, (b)</hi> for moſt ioyfull tydings of the Re<g ref="char:EOLhyphen"/>demption of Mankinde, the bleſſed Virgin <hi>Mary</hi> being ſaluted and ho<g ref="char:EOLhyphen"/>nored with the miraculous Mother<g ref="char:EOLhyphen"/>hood
+<pb n="8" facs="tcp:181062:5"/>of the VVorlds Redeemer.</p>
+            <p>The <hi>Creede</hi> contayneth the twelue principall articles of our Faith, wherevpon as moſt certaine and infallible foundations, our holy Catholike beliefe (without which,<note n="(a)" place="bottom">Epheſ. <hi>2.</hi> verſ. <hi>20.</hi> Hebr. <hi>11.</hi> verſ. <hi>5.</hi>
+               </note> it is vnpoſſible to pleaſe God) is built, and erected, and was com<g ref="char:EOLhyphen"/>poſed by the twelue Apoſtles, each of them making one ſeuerall Arti<g ref="char:EOLhyphen"/>cle, which in regard thereof, is cal<g ref="char:EOLhyphen"/>led in Latine, <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Apoſtolorum,</hi> that is to ſay, <hi>The Shot of the Apoſtles,</hi> alluding to an Ordinarie, whereas euery one of the Commenſals lay downe their shot or share. And as this <hi>Creed</hi> is a geuerall Summe of all our beliefe: ſo are the <hi>Pater noster,</hi> and <hi>Aue Marie,</hi> generall formes of prayer and praiſings of God, which may be applyed to all the particular affections and motio<g ref="char:cmbAbbrStroke">̄</g>s of our minde,
+<pb n="9" facs="tcp:181062:5"/>whatſoeuer wee deſire to obtaine at the hands of Almightie God, as the Pſalter of <hi>Dauid</hi> may. And as our Sa<g ref="char:EOLhyphen"/>uiour Chriſt commended the <hi>Pater noſter</hi> vnto vs, ſaying: <hi>When you pray, pray thus, Our Father. &amp;c.</hi> So our bleſ<g ref="char:EOLhyphen"/>ſed Lady in her Hymne of <hi>Magnifi<g ref="char:EOLhyphen"/>cat,</hi> commended the <hi>Aue Marie</hi> vnto vs, ſaying: For, <hi>behold from henceforth all generations shall call me bleſſed:</hi> for with what words, I pray you, can wee more properly and pleaſingly to God and Her, call her bleſſed, then by the <hi>Aue Marie,</hi> wherewith<g ref="char:EOLhyphen"/>all the Angell <hi>Gabriel</hi> was ſent from Heauen to ſalute her ſo, as afore<g ref="char:EOLhyphen"/>ſaid?</p>
+            <p>The myſterie of the number of prayers in this holy <hi>Roſarie</hi> or <hi>Pſalter</hi> is this: In the old Law,<note n="(a)" place="bottom">Leuit. <hi>25.</hi> verſ. <hi>10.</hi>
+               </note> before the comming of Chriſt, euery Fif<g ref="char:EOLhyphen"/>tieth yeere was a yeere of <hi>Iubile,</hi>
+               <pb n="10" facs="tcp:181062:6"/>wherein there was a generall for<g ref="char:EOLhyphen"/>giueneſſe of all debts, crimes, and grieuances whatſoeuer, and a redu<g ref="char:EOLhyphen"/>cing of all things to their former qualitie and ſtate: in which all grie<g ref="char:EOLhyphen"/>uances being redreſſed, the whole earth did ſeeme to reioyce, and clap her hands, and therefore had the appellation of the yeere of <hi>Iubile,</hi> or <hi>Iubilation,</hi> that is to ſay, of exceeding ioy and iubilation: and this was in<g ref="char:EOLhyphen"/>deed a figure of the moſt ample re<g ref="char:EOLhyphen"/>miſſion of ſinnes in the new Law, by the Death and Paſſion of Chriſt Ieſus, expreſſed more plainly by the deſcending of the holy Ghoſt (the Fountaine of Grace and Remiſ<g ref="char:EOLhyphen"/>ſion of ſinnes) vpon the Apoſtles and Diſciples of Chriſt, Fiftie dayes after his Death and Reſurrection, vpon the feaſt of <hi>Pentecoſt</hi> or <hi>Whit<g ref="char:EOLhyphen"/>ſunday,</hi> ſo called, in regard of the number of fiftie dayes.</p>
+            <pb n="11" facs="tcp:181062:6"/>
+            <p> Wherefore by the number of fiftie <hi>Aues Maries,</hi> whereof the third part of the ſaid <hi>Pſalter</hi> conſiſteth, is aptly ſignified remiſſion of ſinnes. By the fiue <hi>Pater nosters,</hi> is ſignified the fiue principall wounds of Chriſt, which fiue wounds may bee reſembled to thoſe Cities of refuge in the old Law,<note n="(a)" place="bottom">Dcuter. <hi>15.</hi> verſ. <hi>2.</hi>
+               </note> as it were, places of San<g ref="char:EOLhyphen"/>ctuarie for all Offenders to flie vnto for refuge againſt their perſecuting Foes, either ſpirituall or corporall. By the ten <hi>Aue Maries</hi> betweene the <hi>Pater noſters,</hi> is ſignified the ten Commandements. By the <hi>Creede</hi> is ſignified the Catholike Faith or Be<g ref="char:EOLhyphen"/>liefe, out of which there is no ſalua<g ref="char:EOLhyphen"/>tion, or poſſibilitie of pleaſing God, as aforeſaid: So that all this put together ſignifieth thus much, whe<g ref="char:cmbAbbrStroke">̄</g> we ſay this holy <hi>Pſalter.</hi> Wee deſire that by the keeping of the ten
+<pb n="12" facs="tcp:181062:7"/>Commandements ſignified by the ten <hi>Aue Maries,</hi> betweene the <hi>Pater noſters,</hi> We being of the Catholike Faith or Beliefe, ſignified by the <hi>Creede,</hi> in the vertue of the fiue wounds and death of Chriſt, ſigni<g ref="char:EOLhyphen"/>fied by the fiue <hi>Pater noſters,</hi> wee may obtaine remiſſion of our ſinnes ſignified by the fiftie <hi>Aue Maries,</hi> the number of remiſſion of ſinnes, as aforeſaid. Beſides this, the Church addeth her Benediction or Sanctifi<g ref="char:EOLhyphen"/>cation to the Beades whereupon they are ſaid, wherewithall I haue cauſed yours to bee hallowed, to make them (being otherwiſe but plaine) more precious vnto you.</p>
+            <p>That the Church hath ſuch au<g ref="char:EOLhyphen"/>thoritie, you need not doubt, it being the vſe in the old Law<note n="(a)" place="bottom">Num. <hi>7.</hi> verſ. <hi>1.</hi>
+               </note> to bleſſe or hallow, not onely the Temple and Altars, but alſo all
+<pb n="13" facs="tcp:181062:7"/>Veſtments &amp; Vtenſils belonging to the ſeruice of God. And Saint <hi>Paul</hi> ſaith <hi>(a)</hi> that Creatures are or may be ſanctified by the Word of God and Prayer, eſpecially that which is authoriſed and appointed by the Church of God to that end, as this of the Beades is. Moreouer, if there be any vertue in wordes (as cer<g ref="char:EOLhyphen"/>tainly there is) and if wordes can enchaunt Serpents, as it appeares they can, out of the prophet <hi>Dauid (b)</hi> and many naturall experiences there are of the ſame. Then ſurely it is piouſly to be thought, that Al<g ref="char:EOLhyphen"/>mightie God is pleaſed to bee, as it were, enchaunted with theſe moſt ſoueraigne prayers deuoutly re<g ref="char:EOLhyphen"/>hearſed, &amp; hath cauſed our bleſſed Lady and his Saints to bee ſo like<g ref="char:EOLhyphen"/>wiſe: and no maruaile, though he make himſelfe ſubiect herevnto,<note place="bottom">
+                  <hi>1.</hi> Tim. <hi>4.</hi> verſ. <hi>5.</hi> Pſal. <hi>57.</hi>
+               </note>
+               <pb n="14" facs="tcp:181062:8"/>when he ſaid to his ſeruant <hi>Moyſes, (a) Let me goe that my fury may be an<g ref="char:EOLhyphen"/>grie against this people:</hi> as if <hi>Moyſes</hi> had forceably with holden him.</p>
+            <p>This <hi>Roſarie</hi> or <hi>Pſalter</hi> of our bleſſed Lady, is adorned with fif<g ref="char:EOLhyphen"/>teene moſt pious and deuout Medi<g ref="char:EOLhyphen"/>tations, to wit, of the fiue <hi>ioyous,</hi> fiue <hi>dolorous,</hi> and fiue <hi>glorious</hi> myſteries of our bleſſed Lady, well knowne to moſt Catholikes and vſed accor<g ref="char:EOLhyphen"/>dingly, with ſundrie other kindes of godly and deuout Meditations: amongſt which I lighted of late vpon certaine moſt deuout and an<g ref="char:EOLhyphen"/>cient Meditations in latine, called <hi>Raſarium aureum,</hi> the <hi>golden Roſarie,</hi> which, in my opinion, doth very well deſerue that name. Theſe haue I tranſlated into English meeter, &amp; se<g ref="char:cmbAbbrStroke">̄</g>t vnto you to ſtirre vp &amp; ſweetne<g ref="char:cmbAbbrStroke">̄</g> your deuotion ſo much the more.<note place="bottom">Exod. <hi>32.</hi> verſ. <hi>9.</hi>
+               </note>
+            </p>
+            <pb n="15" facs="tcp:181062:8"/>
+            <p> If you obiect the <hi>Aue Mary,</hi> pro<g ref="char:EOLhyphen"/>nounced by the Angell <hi>Gabriel,</hi> is no prayer but only a falutation? I anſwer, The Church hath made it an expreſſe Prayer, by adding vnto the Salutation of the Angell, theſe words: <hi>Holy Mary mother of God, pray for vs ſinners, now, and in the boure of our death. Amen.</hi> Which thing, ſuppo<g ref="char:EOLhyphen"/>ſing the doctrine of the Inuocation of Saints to bee true, Shee may law<g ref="char:EOLhyphen"/>fully doe, and hath great reaſon to doe vnto our bleſſed Lady as a ge<g ref="char:EOLhyphen"/>neral prayer for all vies eſpecially, conſidering the Salutation was in<g ref="char:EOLhyphen"/>tentionally ſaid as a prayer, before: and was more then inſinuated for ſuch by our Sauiour Chriſt vpon the Croſſe, ſaying to our bleſſed La<g ref="char:EOLhyphen"/>dy of Saint Iohn<note n="(a)" place="bottom">Ioan. <hi>19.</hi> verſ. <hi>26.</hi>
+               </note> 
+               <hi>Woman, behold thy Sonne:</hi> and to him of her, <hi>Behold thy Mother:</hi> by which wordes he
+<pb n="16" facs="tcp:181062:9"/>commended her myſtically, not onely to Saint <hi>Iohn,</hi> but alſo to all others in him, that are <hi>Iohns</hi> by grace and loue of God, as hee was by name, as a Mother of interceſ<g ref="char:EOLhyphen"/>ſſion to God for them, and they as children confidently to entreat it at her hands.</p>
+            <p>If your conceit ſuggeſt vnto you, It is a dishonour to God to pray vn<g ref="char:EOLhyphen"/>to his Mother? anſwer vnto it, No more dishonour, then to deſire one anothers prayers here on earth, which is to the greater honour of God, commanded and commended vnto vs in his ſacred Word. If it vrge, The Saints know not our prayers? anſwer, They reioyce at the conuerſion of a Sinner: There<g ref="char:EOLhyphen"/>fore they know the ſame. If the often repetitio<g ref="char:cmbAbbrStroke">̄</g> of the ſame prayers ſeeme vaine? anſwere. It is full of myſterie and holy meditation, as is
+<pb n="17" facs="tcp:181062:9"/>before declared; which myſteriouſ<g ref="char:EOLhyphen"/>neſſe, together with the often repe<g ref="char:EOLhyphen"/>tition, doe maruailouſly incite the ſoule to feruour and deuotion, if it bee done with due attention. The Angels vſe the repetition of <hi>Holy, holy, holy.</hi>
+               <note n="(a)" place="bottom">Matth. <hi>26.</hi> verſ. <hi>44.</hi>
+               </note> Our Sauiour Chriſt, went three ſeuerall times together into the Garden and prayed (as the text ſaith) the ſame Prayer. In the 135. <hi>Pſalm.</hi> the Prophet <hi>Dauid</hi> repea<g ref="char:EOLhyphen"/>teth in euery verſe, <hi>for his mercy en<g ref="char:EOLhyphen"/>dureth for euer.</hi> If one may vſe often repetitio<g ref="char:cmbAbbrStroke">̄</g> of one thing in the prayſe of God, Why not in prayer? This being ſo, this holy <hi>Pſalter</hi> of the Beades cannot be but a moſt accep<g ref="char:EOLhyphen"/>table ſeruice and deuotion to God, and to our bleſſed Ladie the glo<g ref="char:EOLhyphen"/>rious Virgin <hi>Marie</hi> the Mother of of God, and to all the Court of Heauen. And to our enemie the
+<pb n="18" facs="tcp:181062:10"/>Deuill a great confuſion, chaſing him out of our hearts, or at leaſt repreſſing and much appeaſing his deadly aſſaults and temptations a<g ref="char:EOLhyphen"/>gainſt vs, as that <hi>Pſalter</hi> of <hi>Dauid</hi> did, as aforeſaid, which was in<g ref="char:EOLhyphen"/>deed, a liuely figure of this.</p>
+            <p>
+               <hi>Before euery Meditation following ſay the first part of the</hi> Aue Marie <hi>till you come to</hi> Ieſus: <hi>Then ſay the Medi<g ref="char:EOLhyphen"/>tation in verſe: then the other part of the</hi> Aue Marie <hi>in order as it lyeth.</hi>
+            </p>
+         </div>
+         <div type="rosary">
+            <pb n="19" facs="tcp:181062:10"/>
+            <head>The golden Roſarie of the <hi>most glorious Virgin</hi> MARY.</head>
+            <head type="sub">Pater noſter, Aue Maria, &amp;c.</head>
+            <lg n="1">
+               <head>IESVS.</head>
+               <l>1. <hi>MAry</hi> of Virgins all moſt pure</l>
+               <l>Receiue this golden Ro<g ref="char:EOLhyphen"/>ſarie,</l>
+               <l>Deckt with the life of thy ſweet Sonne</l>
+               <l>Vnder a briefe compendiarie.</l>
+            </lg>
+            <lg n="2">
+               <head>IESVS.</head>
+               <l>2. Whom thou, a Virgin voyd of ſinne,</l>
+               <pb n="20" facs="tcp:181062:11"/>
+               <l>Conceiuedſt of the holy Ghoſt,</l>
+               <l>When <hi>Gabriels</hi> newes thou did'ſt beleeue,</l>
+               <l>Gayning thereby what <hi>Eue</hi> had loſt.</l>
+            </lg>
+            <lg n="3">
+               <head>IESVS.</head>
+               <l>3. Of whom thou being great with Childe,</l>
+               <l>Vnto <hi>Elizabeth</hi> did'ſt hie,</l>
+               <l>And <hi>Iohn</hi> the <hi>Baptist</hi> in her wombe</l>
+               <l>Did'ſt with thy preſence ſanctifie.</l>
+            </lg>
+            <lg n="4">
+               <head>IESVS.</head>
+               <l>4. Whom in the Citie <hi>Bethleem</hi>
+               </l>
+               <l>Thou did'ſt bring forth with heauenly ioy,</l>
+               <l>Free from thoſe paynes which e<g ref="char:EOLhyphen"/>uermore</l>
+               <l>Wome<g ref="char:cmbAbbrStroke">̄</g> in Chil birth doe annoy.</l>
+            </lg>
+            <lg n="5">
+               <head>IESVS.</head>
+               <l>5. Whom newly in a Stable borne</l>
+               <l>Thou did'ſt forth with as God. adore;</l>
+               <l>And with thy Virgins milke diſtſt feede,</l>
+               <pb n="21" facs="tcp:181062:11"/>
+               <l>A thing moſt ſtrange, ne're heard before.</l>
+            </lg>
+            <lg n="6">
+               <head>IESVS.</head>
+               <l>6. Whom thou didſt wrapp in ſilly clowts,</l>
+               <l>And with brute beaſts laid in a Manger;</l>
+               <l>And didſt him ſerue in what thou couldſt,</l>
+               <l>To keepe his tender Corps from danger.</l>
+            </lg>
+            <lg n="7">
+               <head>IESVS.</head>
+               <l>7. Whom troopes of Angels, with great ioy</l>
+               <l>And heauenly melodie did prayſe;</l>
+               <l>Proclayming glorie vnto God,</l>
+               <l>And peace to Men on earth al<g ref="char:EOLhyphen"/>wayes.</l>
+            </lg>
+            <lg n="8">
+               <head>IESVS.</head>
+               <l>8 Who<g ref="char:cmbAbbrStroke">̄</g> being chiefe of Shepherds all,</l>
+               <l>The Shepherds of the field firſt found:</l>
+               <pb n="22" facs="tcp:181062:12"/>
+               <l>And finding, worshipt as their Lord</l>
+               <l>Though lying poorely on the ground.</l>
+            </lg>
+            <lg n="9">
+               <head>IESVS.</head>
+               <l>9. Who did vouchſafe like ſinfull man,</l>
+               <l>To take the marke of Circumci<g ref="char:EOLhyphen"/>ſion:</l>
+               <l>And eke the Name of <hi>Ieſus</hi> ſweet,</l>
+               <l>Our ſinfull ſoules Phyſition.</l>
+            </lg>
+            <lg n="10">
+               <head>IESVS.</head>
+               <l>10. To whom three Kings did come with gifts</l>
+               <l>Of Gold, and Myrrhe, and Fran<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncenſe,</l>
+               <l>Directed by a blazing ſtarre,</l>
+               <l>And him ador'd with reuerence.</l>
+               <l>
+                  <hi>Pater noster, Aue Maria; &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>IESVS.</head>
+               <l>1. Who being fortie dayes of age,</l>
+               <l>Thou in the Temple didſt preſent</l>
+               <l>According vnto <hi>Moſe</hi> Law,</l>
+               <l>Making thy ſelfe obedient.</l>
+            </lg>
+            <lg n="2">
+               <pb n="23" facs="tcp:181062:12"/>
+               <head>IESVS.</head>
+               <l>2. Whom flying <hi>Herodes</hi> perſecution,</l>
+               <l>To <hi>Egypt</hi> thou by night didſt carry:</l>
+               <l>And after comming backe from thence,</l>
+               <l>In <hi>Nazareth</hi> with him didſt tarry.</l>
+            </lg>
+            <lg n="3">
+               <head>IESVS.</head>
+               <l>3. Whom in the Temple thou didſt loſe</l>
+               <l>With many a teare and wofull hart,</l>
+               <l>But miſſing him, didſt ſeeke him out.</l>
+               <l>And finding him, didſt glad de<g ref="char:EOLhyphen"/>part.</l>
+            </lg>
+            <lg n="4">
+               <head>IESVS.</head>
+               <l>4. Whom with the labour of thy hands,</l>
+               <l>In all his wa<g ref="char:cmbAbbrStroke">̄</g>ts thou didſt ſuſtaine:</l>
+               <l>And though thy meanes were very poore,</l>
+               <l>Yet didſt thou neuer once com<g ref="char:EOLhyphen"/>plaine.</l>
+            </lg>
+            <lg n="5">
+               <pb n="24" facs="tcp:181062:13"/>
+               <head>IESVS.</head>
+               <l>5. Whom <hi>Iohn</hi> in <hi>Iordane</hi> did baptize</l>
+               <l>And pointing to him, thus did ſay:</l>
+               <l>Behold, the Lambe of God one hie,</l>
+               <l>That takes the ſinne of Ma<g ref="char:cmbAbbrStroke">̄</g> away.</l>
+            </lg>
+            <lg n="6">
+               <head>IESVS.</head>
+               <l>6. Whom Sathan in great ſubtilitie</l>
+               <l>Did tempt with ſundrie ſorts of ſinne,</l>
+               <l>To trie where he was God or Man,</l>
+               <l>But no way could preuaile therein.</l>
+            </lg>
+            <lg n="7">
+               <head>IESVS.</head>
+               <l>7. Who at thy motion did vouchſafe</l>
+               <l>To cha<g ref="char:cmbAbbrStroke">̄</g>ge pure Water into Wine,</l>
+               <l>Confirming his Diſciples faith</l>
+               <l>By that ſtrange miracle diuine.</l>
+            </lg>
+            <lg n="8">
+               <head>IESVS.</head>
+               <l>8. Who freed ſuch as were poſſeſt</l>
+               <l>With wicked ſpirits in bodie or minde,</l>
+               <l>Curing the ſicke and lame alſo,</l>
+               <pb n="25" facs="tcp:181062:13"/>
+               <l>And giuing ſight vnto the blinde.</l>
+            </lg>
+            <lg n="9">
+               <head>IESVS.</head>
+               <l>9. Who rayſed <hi>Lazarus</hi> fro<g ref="char:cmbAbbrStroke">̄</g> the graue.</l>
+               <l>Reſtor'd to life the Widdowes ſonne;</l>
+               <l>Brought home againe the prodigall Childe</l>
+               <l>That ſuch a deſperate race had runne.</l>
+            </lg>
+            <lg n="10">
+               <head>IESVS.</head>
+               <l>10. Who oft with Sinners did con<g ref="char:EOLhyphen"/>uerſe,</l>
+               <l>And oft with ſuch did take repaſt,</l>
+               <l>And them vnto repenta<g ref="char:cmbAbbrStroke">̄</g>ce brought,</l>
+               <l>Forgiuing all their ſinnes at laſt.</l>
+               <l>
+                  <hi>Pater noster, Aue Maria, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>IESVS.</head>
+               <l>1. Whoſe feete the ſinner <hi>Magdalen</hi>
+               </l>
+               <l>Did wash with teares of loue and griefe,</l>
+               <l>And ſorrowing deeply for her ſinnes,</l>
+               <l>Obtayned pardon and reliefe.</l>
+            </lg>
+            <lg n="2">
+               <pb n="26" facs="tcp:181062:14"/>
+               <head>IESVS.</head>
+               <l>2. Who on the holy Mou<g ref="char:cmbAbbrStroke">̄</g>t of <hi>Thabor</hi>
+               </l>
+               <l>Cauſed his bodie ſo to shine,</l>
+               <l>That bleſſed <hi>Peter, Iames,</hi> and <hi>Iohn,</hi>
+               </l>
+               <l>Did ſee his Majeſtie diuine.</l>
+            </lg>
+            <lg n="3">
+               <head>IESVS.</head>
+               <l>3. Whom ſtore of people with ap<g ref="char:EOLhyphen"/>plauſe</l>
+               <l>With boughes of palme ſtrewing his way,</l>
+               <l>Did bring into <hi>Ieruſalem,</hi>
+               </l>
+               <l>But him forſooke that very day.</l>
+            </lg>
+            <lg n="2">
+               <head>IESVS.</head>
+               <l>2. Who, e're he eate the Paſcall Lambe,</l>
+               <l>Washed his twelue Diſciples feet,</l>
+               <l>Then fed them with his Flesh and Bloud</l>
+               <l>In Sacrament of loue moſt ſweet.</l>
+            </lg>
+            <lg n="5">
+               <head>IESVS.</head>
+               <l>5. Who in the Garden proſtrate prayde</l>
+               <l>With ſweat of water mixt with blood,</l>
+               <pb n="27" facs="tcp:181062:14"/>
+               <l>For feare of death, yet glad to die,</l>
+               <l>If to his Father it ſeem'd good.</l>
+            </lg>
+            <lg n="6">
+               <head>IESVS.</head>
+               <l>6. Whom vile and moſt malicious Knaues</l>
+               <l>Did take, and eke with cordes did tie,</l>
+               <l>And brought him captiue to the Iudge.</l>
+               <l>Who then was <hi>Cayphas</hi> Bishop hie.</l>
+            </lg>
+            <lg n="7">
+               <head>IESVS.</head>
+               <l>7. Whoſe comely face (O haynous crime)</l>
+               <l>With filthy ſpittle they berayde,</l>
+               <l>And with their firſts full many a blowe</l>
+               <l>Moſt cruelly thereon they layde.</l>
+            </lg>
+            <lg n="8">
+               <head>IESVS.</head>
+               <l>8. Whom they to <hi>Pilate</hi> did preſent</l>
+               <l>To be condemn'd and iudg'd to dye,</l>
+               <l>Bringing falſe witneſſe to that end,</l>
+               <l>Who did accuſe him wrongfully.</l>
+            </lg>
+            <lg n="9">
+               <pb n="28" facs="tcp:181062:15"/>
+               <head>IESVS.</head>
+               <l>9. Whom <hi>Pilate</hi> vnto <hi>Herode</hi> ſent,</l>
+               <l>To doe with him what he beſt deem'd,</l>
+               <l>Who for his ſilence ſent him backe,</l>
+               <l>Clad like a Foole and ſo eſteem'd.</l>
+            </lg>
+            <lg n="10">
+               <head>IESVS.</head>
+               <l>10. Whoſe tender Flesfl with whips they tore:</l>
+               <l>Whoſe ſacred Head they crown'd with thorne,</l>
+               <l>In purple garments like a King,</l>
+               <l>And ſo ſaluted him in ſcorne.</l>
+               <l>
+                  <hi>Pater noſter, Aue Maria, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>IESVS.</head>
+               <l>1. Whom wounded ſore with cruell ſtripes,</l>
+               <l>The Souldiers lewdly did deride,</l>
+               <l>And eke the Iewes with ope<g ref="char:cmbAbbrStroke">̄</g> mouth</l>
+               <l>Did crie to haue him crucifide.</l>
+            </lg>
+            <lg n="2">
+               <head>IESVS.</head>
+               <l>2. Whom as a Malefactor then,</l>
+               <l>
+                  <hi>Pilate</hi> condemned vnto death,</l>
+               <l>Bearing his Croſſe vpon his backe,</l>
+               <pb n="29" facs="tcp:181062:15"/>
+               <l>Till he was ſpent &amp; out of breath.</l>
+            </lg>
+            <lg n="3">
+               <head>IESVS.</head>
+               <l>3. Whom on the Mount of <hi>Caluarie</hi>
+               </l>
+               <l>They ſtripped naked to the skin;</l>
+               <l>And ſetting vp the Croſſe an end,</l>
+               <l>Did naile him hands and feet therein.</l>
+            </lg>
+            <lg n="4">
+               <head>IESVS.</head>
+               <l>4. Who for his Perſecutors prayde</l>
+               <l>Vnto his heauenly Father deare,</l>
+               <l>And ſtretched on the bloudie Croſſe,</l>
+               <l>His paynes moſt patie<g ref="char:cmbAbbrStroke">̄</g>tly did beare.</l>
+            </lg>
+            <lg n="5">
+               <head>IESVS.</head>
+               <l>5. Who vnto the repentant Thiefe,</l>
+               <l>Of all his ſinnes full pardon gaue,</l>
+               <l>With promiſe of eternall bliſſe,</l>
+               <l>Which he there hanging by did craue.</l>
+            </lg>
+            <lg n="6">
+               <head>IESVS.</head>
+               <l>6. Who vnto his Diſciple <hi>Iohn</hi>
+               </l>
+               <l>Thee for his Mother did comend,</l>
+               <l>And him to thee as a deare Sonne</l>
+               <pb n="30" facs="tcp:181062:16"/>
+               <l>In mutuall loue for to depend.</l>
+            </lg>
+            <lg n="7">
+               <head>IESVS.</head>
+               <l>7. Who when he ſeemed to com<g ref="char:EOLhyphen"/>plaine.</l>
+               <l>His Father had him quite for<g ref="char:EOLhyphen"/>ſooke,</l>
+               <l>His Foes blaſphemed him the more</l>
+               <l>And no compaſſion on him tooke.</l>
+            </lg>
+            <lg n="8">
+               <head>IESVS.</head>
+               <l>8. Who when he cryed out, I <hi>thirst,</hi>
+               </l>
+               <l>His forces being almoſt ſpent,</l>
+               <l>They gaue him galle and vinegre,</l>
+               <l>That ſo they might him more torment.</l>
+            </lg>
+            <lg n="9">
+               <head>IESVS.</head>
+               <l>9. Who by his Paſſion finishing</l>
+               <l>The prophecies of holy Writ,</l>
+               <l>Diſcharg'd the debt of <hi>Adams</hi> ſinne,</l>
+               <l>Paying his precious bloud for it.</l>
+            </lg>
+            <lg n="10">
+               <head>IESVS.</head>
+               <l>10. Who then into his Fathers ha<g ref="char:cmbAbbrStroke">̄</g>ds</l>
+               <l>His ſacred Spirit did commend,</l>
+               <l>Crying alowd with voyce moſt shrill,</l>
+               <pb n="31" facs="tcp:181062:16"/>
+               <l>And ſo his bleſſed Life did end.</l>
+               <l>
+                  <hi>Pater noſter, Aue Maria. &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>IESVS.</head>
+               <l>1. Whoſe ſide à Souldier with his ſpeare</l>
+               <l>Pearc'd, hanging dead vpon the Rood,</l>
+               <l>And therewithall there gushed out</l>
+               <l>A ſtreame of water mixt with blood.</l>
+            </lg>
+            <lg n="2">
+               <head>IESVS.</head>
+               <l>2 Who being ſlaine vpon the Croſſe</l>
+               <l>His liueleſſe Corps did reſt in peace:</l>
+               <l>His Soule went downe to <hi>Limbo</hi> lake,</l>
+               <l>And did thoſe captiue ſoules re<g ref="char:EOLhyphen"/>leaſe.</l>
+            </lg>
+            <lg n="3">
+               <head>IESVS.</head>
+               <l>3. Whoſe ſacred Body from the Croſſe</l>
+               <l>
+                  <hi>Ioſeph</hi> and <hi>Nicodemus</hi> tooke,</l>
+               <l>And buried it in noble ſort,</l>
+               <pb n="32" facs="tcp:181062:17"/>
+               <l>When all men elſe had it forſooke.</l>
+            </lg>
+            <lg n="4">
+               <head>IESVS.</head>
+               <l>4. Who by his onely power diuine</l>
+               <l>Did riſe againe, being three dayes dead.</l>
+               <l>And thee, and his Diſciples all,</l>
+               <l>With his appearance comforted.</l>
+            </lg>
+            <lg n="5">
+               <head>IESVS.</head>
+               <l>5. Who, after fortie dayes were paſt</l>
+               <l>Aſcended into heauen hie,</l>
+               <l>And at his Fathers tight hand ſits,</l>
+               <l>To raigne with him eternally.</l>
+            </lg>
+            <lg n="6">
+               <head>IESVS</head>
+               <l>6. Who ſent from thence the holy Ghoſt</l>
+               <l>Vpon the feaſt of <hi>Whitſontide,</hi>
+               </l>
+               <l>Which, his Diſciples being weake,</l>
+               <l>Inflam'de with loue and fortifi'de.</l>
+            </lg>
+            <lg n="7">
+               <head>IESVS.</head>
+               <l>7. Who thee vnto his heauenly Throne,</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> thou on earth thy time hadſt beene,</l>
+               <pb n="33" facs="tcp:181062:17"/>
+               <l>Aſſumpted both in Body and Soule,</l>
+               <l>To raigne with him as heauens Queene.</l>
+            </lg>
+            <lg n="8">
+               <head>IESVS.</head>
+               <l>8. Who at the latter Day shall come</l>
+               <l>And ſit as Iudge vpon his Throne,</l>
+               <l>With rigour and ſeueritie</l>
+               <l>Iudging the deeds of euery one.</l>
+            </lg>
+            <lg n="9">
+               <head>IESVS.</head>
+               <l>9. Who to the bad eternall paynes.</l>
+               <l>And to the good eternall bliſſe,</l>
+               <l>Will iuſtly iudge without reſpect</l>
+               <l>Of any perſon that or this.</l>
+            </lg>
+            <lg n="10">
+               <head>IESVS.</head>
+               <l>10. Who grant, that they, which doe recite</l>
+               <l>This <hi>Golden Roſarie</hi> of thine,</l>
+               <l>May ſee the face of Him and Thee,</l>
+               <l>In heaue<g ref="char:cmbAbbrStroke">̄</g>ly bliſſe for aye to shine.</l>
+               <l>
+                  <hi>Credo in Deum Patrem, &amp;c.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="letter">
+            <pb n="34" facs="tcp:181062:18"/>
+            <head>Another Letter to his Siſter, concerning the Office of our bleſſed LADY. <hi>commonly called the</hi> PRIMMER.</head>
+            <p>IT is ſaid in the Goſpell, that wee muſt pray alwayes: and Saint <hi>Paul</hi> exhorteth vs to pray without inter<g ref="char:EOLhyphen"/>miſſion. The meaning of which wordes is not, that wee should doe nothing elſe but pray, for that wee cannot, nor ought not to doe. The meaning therefort of theſe places of holy Scripture, is, that wee should pray at certaine ſet times,<note n="(a)" place="bottom">Luc. <hi>1.</hi> v. <hi>1.</hi>
+               </note> 
+               <note n="(b)" place="bottom">1. <hi>Theſ.</hi> 5. <hi>verſ</hi> 17.</note>
+               <pb n="35" facs="tcp:181062:18"/>without omiſſion or intermiſſion. Such times did the Prophet <hi>Dauid</hi> ſet to himſelfe, as appeareth by his owne wordes: <hi>In the euening and mor<g ref="char:EOLhyphen"/>ning</hi> or at <hi>mid-day, Will</hi> I <hi>declare</hi> or ſet forth <hi>thy prayſe:</hi> and, <hi>Pſal.</hi> 118. <hi>v.</hi> 164. hee ſaith, hee did the like ſeuen times a day.</p>
+            <p>Our holy Mother the Church, hath ordayned for Religious and Eccleſiaſticall perſons, a certaine ſet Office or Seruice to bee ſaid to God, in euery houre of the day and night that ſo they may ſeeme to pray al<g ref="char:EOLhyphen"/>wayes or without intermiſſion, as aforeſaid. But becauſe it were hard and ouer burdenſome to pray eue<g ref="char:EOLhyphen"/>ry naturall houre of the day and night, which are in number twen<g ref="char:EOLhyphen"/>tie foure, Shee hath put three natu<g ref="char:EOLhyphen"/>rall houres into one houre,<note n="(a)" place="bottom">Pſal. <hi>54.</hi> verſ. <hi>18.</hi>
+               </note> calling it a Canonicall or Eccleſiaſticall
+<pb n="36" facs="tcp:181062:19"/>houre, and of theſe there are but eight in a day and night. For euery of which eight houres Shee hath ordayned a ſeuerall Seruice or Offi<g ref="char:EOLhyphen"/>ce of prayer and prayſing of God At mid-night Shee hath ordained that to bee ſaid, which we call the <hi>Ma<g ref="char:EOLhyphen"/>tins:</hi> At three a clocke after mid<g ref="char:EOLhyphen"/>night, the <hi>Laudes:</hi> At ſixe a clocke in the moning, the <hi>Prime:</hi> At nine a clocke, the <hi>Third:</hi> At twelue, the <hi>Ninth:</hi> At ſix, the <hi>Euen-ſong,</hi> At nine, the <hi>Compline,</hi> ſo that by this meanes they ſeeme to pray alwayes or with<g ref="char:EOLhyphen"/>out intermiſſion, according to the exhortation of the holy Scripture, as aforeſaid. Thus doe Religious &amp; Eccleſiaſticall perſons ſerue God night and day, and doe by their pro<g ref="char:EOLhyphen"/>feſſion binde themſelues thereunto, and this is the publike or common Seruice and prayer of the whole Church diſperſed thorowout the
+<pb n="37" facs="tcp:181062:19"/>world, whereof all ſuch as are members of the Church are parta<g ref="char:EOLhyphen"/>kers, whereſoeuer they are, though not preſent thereat, but more eſpe<g ref="char:EOLhyphen"/>cially and effectually if they bee corporally preſent. And that is the reaſon why denout people reſort to Churches vpon Sundayes and Holy dayes, and many weeke dayes alſo, not onely to heare Maſſe, but alſo Matins and Euen-ſong.</p>
+            <p>Lay people are not bound to anie ſuch forme of continuall prayer or ſeruice; but becauſe it is a godly and deuout exerciſe to imitate Reli<g ref="char:EOLhyphen"/>gious and Eccleſiaſticall perſons herein, and maketh them ſo much the more effectually partakers thereof (it being the publike Prayer or Seruice of the Church) by how much the more deuoutly they imi<g ref="char:EOLhyphen"/>tate the ſame: Therefore the Church hath alſo ordained a certaine short,
+<pb n="38" facs="tcp:181062:20"/>but verie ſweet Office or Seruice for them to ſay alſo, after the ſame method or order, called <hi>the Office of our bleſſed Lady,</hi> or <hi>the Primmer,</hi> conſi<g ref="char:EOLhyphen"/>ſting of thoſe ſeuerall eight houres, aforeſaid. to wit, <hi>Matins, Laudes, Prime. Third, Sixt, Ninth, Euen<g ref="char:EOLhyphen"/>ſong, Compline.</hi> Such a booke (deare ſiſter) I haue ſent you, whereby you may ſerue our Lord Ieſus Chriſt and his bleſſed Mother the glo<g ref="char:EOLhyphen"/>rious Virgin <hi>Mary,</hi> euery our of the day and night, as aforeſaid, and ſo purchaſe the daily and hourely bleſſings of God. Not that I would haue you ſay theſe ſeuerall Seruices in their proper ſeuerall houtes, but to ſay them all at two times in the day, in the Morning and Euening for your Matins and Euen-ſong, as the cu<g ref="char:EOLhyphen"/>ſtome is. Or if you cannot conue<g ref="char:EOLhyphen"/>niently ſay them at thoſe times,
+<pb n="39" facs="tcp:181062:20"/>then at ſuch times as you can: And if you cannot conueniently ſay the<g ref="char:cmbAbbrStroke">̄</g> at all, make no ſcruple to omit the<g ref="char:cmbAbbrStroke">̄</g>, for none are bou<g ref="char:cmbAbbrStroke">̄</g>d but ſuch as binde themſelues.</p>
+            <p>Moreouer, beſides the ſaying of theſe houres, to the imitation of Religious perſons, that ſo you may ſeeme to pray alwayes or without intermiſſion, as aforeſaid: you may make another ſingular benefit by way of Meditation, according to the Pictures ſet downe and prefi<g ref="char:EOLhyphen"/>xed at the beginning of euery houre, to which end they are ſet there.</p>
+            <p>At your <hi>Matins</hi> you may medi<g ref="char:EOLhyphen"/>tate of the Annunciation or Salu<g ref="char:EOLhyphen"/>tation of our bleſſed Ladie by the Archangell <hi>Gabriel.</hi> At <hi>Laudes</hi> of our bleſſed Ladies viſitation of her couſin Saint <hi>Elizabeth.</hi> At <hi>Prime,</hi> of the Natiuitie or birth of Chriſt.
+<pb n="40" facs="tcp:181062:21"/>At <hi>Third,</hi> of the Circumciſion of Chriſt, and of his bleſſed Name Ieſus. At <hi>Sixt,</hi> of the Purifica<g ref="char:EOLhyphen"/>tion of our bleſſed Ladie, and Preſentation of Chriſt in the Tem<g ref="char:EOLhyphen"/>ple. At <hi>Ninth,</hi> of the Adoration of the three Kings and their gifts. At <hi>Euen-ſong,</hi> of the flight of our bleſſed Ladie and Saint <hi>Ioſeph</hi> into <hi>Egypt</hi> with little Ieſus. At <hi>Compline,</hi> of our bleſſed Ladies glorious Aſ<g ref="char:EOLhyphen"/>ſumption body and ſoule into Hea<g ref="char:EOLhyphen"/>uen. Theſe, with the ſeuerall cir<g ref="char:EOLhyphen"/>cumſtances thereof, are moſt ſweet Meditations, fit to be vſed eue<g ref="char:EOLhyphen"/>ry day, and would be very com<g ref="char:EOLhyphen"/>fortable vnto you, if you knew them perfectly, and were well in<g ref="char:EOLhyphen"/>ſtructed therein. And in theſe exer<g ref="char:EOLhyphen"/>ciſes you shew your ſelfe, as it were, one of our bleſſed Ladies eſpeciall Hand-maides, or Wayting-women, attending vpon her daily
+<pb n="41" facs="tcp:181062:21"/>and hourely in this Office or Serui<g ref="char:EOLhyphen"/>ce of hers, for ſuch Shee hath and muſt haue, as appeareth in the firſt Pſalme of the ſecond Nocturne at Matins, <hi>verſ.</hi> 15.16. and 17. and it is the fourth Pſalme in your Primmer.</p>
+         </div>
+         <div type="letter">
+            <pb n="42" facs="tcp:181062:22"/>
+            <head>Another Letter to his Siſter, concerning the Order of Saint <hi>Benedict,</hi> together with a little Office of Saint BENEDICT.</head>
+            <head type="sub">According to the houres of the Primmer, <hi>as aforeſaid.</hi>
+            </head>
+            <p>VVHen our bleſſed Father Saint <hi>Benedict</hi> departed this life, the very ſame time, two religious men ſaw him aſcend into heauen in a rich Robe, with bright Lamps shining round about him, &amp; a Man of a bright and venerable aſ<g ref="char:EOLhyphen"/>pect
+<pb n="43" facs="tcp:181062:22"/>ſtanding ouer him, who ſaid vnto them, while they were gazing on him: <hi>This is the way which the beloued of our Lord,</hi> Benedict, <hi>aſcendeth into Heauen.</hi>
+            </p>
+            <p>By this way myſtically is vnder<g ref="char:EOLhyphen"/>ſtood his religious Rule, or courſe of life, which he inſtituted and be<g ref="char:EOLhyphen"/>gan, and preſcribed vnto his Diſci<g ref="char:EOLhyphen"/>ples. In this way, not onely Saint <hi>Benedict</hi> himſelfe, but alſo all his Diſciples and Followers haue wal<g ref="char:EOLhyphen"/>ked, and doe ſtill walke as in a moſt readie and beaten way to heauen. In this way haue walked fortie ſixe Popes (for ſo many haue theree beene of this holy Order or Rule) Emperors, foure: Empreſſes, twen<g ref="char:EOLhyphen"/>tie two: Archbishops, one thouſand ſixe hundred: Kings, fortie: Queens, fiftie one: Children of Kings, one hundred fortie ſixe: Abbots being Doctors, fifteene thouſand ſeuen
+<pb n="44" facs="tcp:181062:23"/>hundred: Dukes, Marqueſſes, and Earles, two hundred fortie fiue: A<g ref="char:EOLhyphen"/>poſtles or Co<g ref="char:cmbAbbrStroke">̄</g>uerters of Kingdomes and Countries, thirtie; whereof our <hi>England</hi> was one, Saint <hi>Gregorie</hi> the Great Pope, and one of the foure principall Doctors of the Church, ſending thirtie Religious Monkes of the Order of Saint <hi>Benedict,</hi> who conuerted it, and eſtablished Ca<g ref="char:EOLhyphen"/>tholike Religion therein, in that perfection that it was called the Garden of Chriſtendome, and Dowrie of our bleſſed Lady, the moſt glorious Virgin <hi>Mary.</hi> Saint <hi>Gregorie</hi> being of the ſame Order himſelfe, and the glorie, not onely of his owne Order, but of the vni<g ref="char:EOLhyphen"/>uerſall Church, and for that cauſe was ſurnamed the <hi>Great:</hi> and of ve<g ref="char:EOLhyphen"/>nerable <hi>Bede</hi> called the Apoſtle of the English Nation. Of this holy Order of Saint <hi>Benedict</hi> were alſo
+<pb n="45" facs="tcp:181062:23"/>of militarie Orders of Knights, for the defence of the Goſpell by the ſword, ſixe. Of Religious Orders twelue principall, beſides diuers other leſſer, all branches of the holy Order of Saint <hi>Benedict,</hi> whereof there were in the world of Mona<g ref="char:EOLhyphen"/>ſteries of Men, thirtie thouſand: &amp; of Women one thouſand and fiue hundred; who illuminated &amp; filled all the weſterne Church with lear<g ref="char:EOLhyphen"/>ning and vertue: it being the onely Religious Order that was extant in the weſterne Church, the firſt fixe hundred yeeres after their begin<g ref="char:EOLhyphen"/>ning, which was about eleuen or twelue hundred yeeres agoe.</p>
+            <p>Vnto this Religious Order, the <hi>Dominicans, Franciſcans,</hi> and <hi>Ieſuites,</hi> three famous Orders of Religion, are in ſome part to attribute their beginnings, Saint <hi>Dominicke</hi> was giuen to his barren mother, by the
+<pb n="46" facs="tcp:181062:24"/>prayers of Saint <hi>Dominick</hi> Abbot, of the Order of Saint <hi>Benedict,</hi> whoſe name for that cauſe his Parents im<g ref="char:EOLhyphen"/>poſed vpon him. Saint <hi>Franeis</hi> con<g ref="char:EOLhyphen"/>ceiued the firſt proiect of his reli<g ref="char:EOLhyphen"/>gious courſe, in a Monaſterie of the Order of Saint <hi>Benedict.</hi> Saint <hi>Igna<g ref="char:EOLhyphen"/>tius</hi> (for ſo he is now newly cano<g ref="char:EOLhyphen"/>nized) receiued the firſt ſparkes of his religious ſpirit, in a famous Mo<g ref="char:EOLhyphen"/>naſterie of Saint <hi>Benedict</hi> in <hi>Spaine,</hi> called <hi>Monteſeratta.</hi> Of this Order there were of canonized or appro<g ref="char:EOLhyphen"/>ued Saints, <hi>Fiftie fiue thouſand fiue hundred and ten,</hi> in the time of Pope <hi>Iohn</hi> the two and twentieth, which was lo<g ref="char:cmbAbbrStroke">̄</g>g agoe, beſides infinite others holy Men and reputed Saints. And we haue had fiue or ſixe glorious Martyrs in theſe our dayes of our ſmall number here in England, Fa<g ref="char:EOLhyphen"/>ther <hi>Roberts,</hi> one of the firſt that were ſent hither in Miſſion, being
+<pb n="47" facs="tcp:181062:24"/>one: (ſo happily did they begin) nei<g ref="char:EOLhyphen"/>ther did any one hitherto (thankes bee to God) fall or miſcarry, ſo hap<g ref="char:EOLhyphen"/>pily haue they gone forwards.</p>
+            <p>The glorie of the children is to bee attributed, a great part of it, to the Parents The branches, buds, bloſ<g ref="char:EOLhyphen"/>ſoms and fruit of a Tree vnto the Roote. Of all theſe aforeſaid &amp; infi<g ref="char:EOLhyphen"/>nite others, our moſt bleſſed Pa<g ref="char:EOLhyphen"/>trone Saint <hi>Benedict</hi> is the Father, the Founder, the Roote. All theſe went the way of bleſſed Saint <hi>Bene<g ref="char:EOLhyphen"/>dict,</hi> &amp; ſo doe likewiſe all thoſe who ioyne themſelues vnto him in this holy Fraternitie or Societie of his, ordayned for lay people, that are deuoutly affected vnto the Order, as I vnderſta<g ref="char:cmbAbbrStroke">̄</g>d you are one. Reioyce therefore and bee glad in our Lord Ieſus, and in his glorious ſeruant Saint <hi>Benedict,</hi> that you are a bloſ<g ref="char:EOLhyphen"/>ſome or bud of ſuch a Tree, that
+<pb n="48" facs="tcp:181062:25"/>hath ſo replenished Heauen and Earth with ſuch noble Fruit, that you are a Childe of ſuch a Father, and haue ſuch and ſo many worthy Brethren and Siſters in heauen and earth, thoſe in Heauen being readie to draw you vnto them, by the gol<g ref="char:EOLhyphen"/>den chaines of their interceſſion &amp; merits: and thoſe on Earth, to lift you vp with their charitable and brotherly aſſiſta<g ref="char:cmbAbbrStroke">̄</g>ce, in what they ca<g ref="char:cmbAbbrStroke">̄</g>: theſe on Earth being bound ſo to doe, as long as you are of their fra<g ref="char:EOLhyphen"/>ternitie, &amp; walke with them in the way that our bleſſed Father Saint <hi>Benedict</hi> did; and they in Heauen out of their reſpectiue charitie can doe no leſſe.</p>
+         </div>
+         <div type="office">
+            <pb n="49" facs="tcp:181062:25"/>
+            <head>The office of the holy <hi>Father</hi> S. BENEDICT.</head>
+            <div type="prayers">
+               <head>At Matins.</head>
+               <l>Thou, O Lord, wilt open my lips,</l>
+               <l>And my mouth shall declare thy praiſe.</l>
+               <l>O God, incline vnto mine ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie bee to the Father, and to the Sonne, and to the holy Ghoſt:</l>
+               <pb n="48" facs="tcp:181062:26"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="49" facs="tcp:181062:26"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:181062:27"/>
+               <l>As it was in the beginning, is now, and euer shall be, world with<g ref="char:EOLhyphen"/>out end. Amen.</l>
+               <div type="hymn">
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>A <hi>Vrora</hi> faire vnmask's her face,</l>
+                  <l>And ſmiles vpon the earth, to ſee</l>
+                  <l>Saint <hi>Benedicts</hi> ſoule, adorn'ed with grace,</l>
+                  <l>Aſcend to Heauen ſo gloriouſly:</l>
+                  <l>How gracious is he there aboue?</l>
+                  <l>Who here on earth did shine ſo bright:</l>
+                  <l>Whoſe wonders, ſtonie hearts did moue,</l>
+                  <l>And gaue to all the World, his light. Praiſe, honour, glorie, without end,</l>
+                  <l>To thee, O ſacred Trinitie:</l>
+                  <l>Which <hi>Benedict,</hi> thy faithfull frend,</l>
+                  <l>Enioyeth for all Eternitie.</l>
+               </div>
+               <div type="hymn">
+                  <pb n="51" facs="tcp:181062:27"/>
+                  <head>An Antheme.</head>
+                  <p>There was a man of venerable life, bleſſed in grace and name, who euen from his Chilhood, bearing a graue minde, and tranſcending his age in vertuous conuerſation, gaue his minde to no voluptuouſneſſe.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>thy of the promiſes of Criſt.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>O God who didſt call the bleſſed Father, and Law maker Saint <hi>Benedict,</hi> from all worldly tumults, to ſerue thee alone: graunt to all, &amp; ſpecially ſuch as ſerue vnder his diſcipline, conſtant perſeuerance in vertue, and perfect victorie vnto
+<pb n="52" facs="tcp:181062:28"/>their end Through Ieſus-Chriſt thy Sonne, who with thee, liueth and raigneth world without end. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <head>At Prime.</head>
+               <l>O God incline vnto my ayde,</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>GReat Conductor in ſacred Warre,</l>
+                  <l>Who neuer conquer'd wert by might:</l>
+                  <l>Defend vs with thy holy prayer,</l>
+                  <l>And ſtrengthen vs, when we doe fight.</l>
+                  <l>Protect vs from all ſinnes diſgrace,</l>
+                  <l>Who mad'ſt the Black-bird to re<g ref="char:EOLhyphen"/>tire:</l>
+                  <l>Which fluttering came about thy face,</l>
+                  <pb n="53" facs="tcp:181062:28"/>
+                  <l>To tempt thee with vnchaſte deſire</l>
+                  <l>Praiſe, honour, glorie, &amp;c.</l>
+               </div>
+               <div type="hymn">
+                  <head>An Antheme.</head>
+                  <p>Our powerfull Lord, did ſo great a fauour to bleſſed <hi>Benedict,</hi> that vnder one Sun-beame he did ſee the whole world.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>thy, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>MAke vs we beſeech thee, O Lord, to imitate here the la<g ref="char:EOLhyphen"/>bours of the bleſſed Father Saint <hi>Benedict,</hi> that there we may be par<g ref="char:EOLhyphen"/>takers of his glorie, through Ieſus-Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <pb n="54" facs="tcp:181062:29"/>
+               <head>At the third houre.</head>
+               <l>O God incline vnto my ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <head>A Hymne.</head>
+                  <l>TO free thee from vnchaſte de<g ref="char:EOLhyphen"/>ſire,</l>
+                  <l>Thy flesh the wounds of thornes indur'd:</l>
+                  <l>And thus fire quenched was with fire,</l>
+                  <l>And one wou<g ref="char:cmbAbbrStroke">̄</g>d with another cur'd</l>
+                  <l>With ſigne of Croſſe a poyſoned Cup,</l>
+                  <l>Thou brak'ſt in two, with power Diuine;</l>
+                  <l>Which poyso<g ref="char:cmbAbbrStroke">̄</g> thou hadſt ſupped vp,</l>
+                  <l>But Death was weaker then lif's ſigne.</l>
+                  <l>Praiſe, honour, glorie, &amp;c.</l>
+               </div>
+               <div type="hymn">
+                  <pb n="55" facs="tcp:181062:29"/>
+                  <head>An Antheme.</head>
+                  <p>The man of our Lord, <hi>Benedict,</hi> was of a pleaſant countenance, and ad<g ref="char:EOLhyphen"/>orned with Angelicall gray haires, and ſo great was the brightneſſe that shined about him, that being yet vpon the Earth, he ſeemed to dwell in Heauen.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may bee made wor<g ref="char:EOLhyphen"/>thy of the promiſe of Chriſt.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>VVE beſeech thee, O Lord; that the interceſſio<g ref="char:cmbAbbrStroke">̄</g> of the bleſſed Abbot Saint <hi>Benedict</hi> may ſo recom<g ref="char:EOLhyphen"/>mend vs, that what by our owne merits wee ca<g ref="char:cmbAbbrStroke">̄</g>not, by his patronage wee may obtayne, through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <pb n="56" facs="tcp:181062:30"/>
+               <head>At the ſixt houre.</head>
+               <l>O God incline vnto my ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>A Monke there was, when o<g ref="char:EOLhyphen"/>thers pray'd,</l>
+                  <l>Oft pull'd away from ſeruing God:</l>
+                  <l>Who afterwards became moſt ſtay'd</l>
+                  <l>When he was touched with thy rod.</l>
+                  <l>The Earth their bones did vomit out.</l>
+                  <l>Who did in thy disfauour die.</l>
+                  <l>But thoſe to thee that were deuout,</l>
+                  <l>Did walke vpon the wathers drie.</l>
+                  <l>Praiſe, honour, glorie, &amp;c.</l>
+               </div>
+               <div type="hymn">
+                  <head>An Antheme.</head>
+                  <p>The glorious Confeſſor of our Lord, <hi>Bénedict,</hi> leading an Angeli<g ref="char:EOLhyphen"/>call life vpon earth, was made a mi<g ref="char:EOLhyphen"/>rour
+<pb n="57" facs="tcp:181062:30"/>of good workes to the world, and therefore reioyceth in heauen without end.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made Wor<g ref="char:EOLhyphen"/>thy, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer.</head>
+                  <p>O God, in whoſe power holy Saint <hi>Benedict</hi> made the dead me<g ref="char:cmbAbbrStroke">̄</g>bers of a childe to reuiue, graunt we beſeech thee, that for is merits, wee may by the breath of thy Spirit bee quickned from the death of our Soules: through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <head>At the ninth houre.</head>
+               <l>O God incline vnto my ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <pb n="58" facs="tcp:181062:31"/>
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>THe compaſſe of the World ſo round</l>
+                  <l>He in a Sunne-beame did diſcrye;</l>
+                  <l>Nothing on earth ſo ſtrange was found</l>
+                  <l>That was concealed from his eye.</l>
+                  <l>O holy Saint! O heauenly Man!</l>
+                  <l>To whom God did his ſecrets tell,</l>
+                  <l>Who ſaw the ſoule of Saint <hi>German,</hi>
+                  </l>
+                  <l>Aſcend the Heauens, for aye to dwell,</l>
+                  <l>Praiſe, honour, glorie, &amp;c.</l>
+               </div>
+               <div type="hymn">
+                  <head>An Antheme.</head>
+                  <p>The man of God, <hi>Benedict,</hi> was re<g ref="char:EOLhyphen"/>plenished with the ſpirit of all righteous men: pray hee for all Pro<g ref="char:EOLhyphen"/>feſſors of the Catholike Religion.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict,</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>hy, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="59" facs="tcp:181062:31"/>
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>GRaunt vs, wee beſeech thee O Lord, that with cheerefull minde Wee may daily celebrate the memorie of thy bleſſed Confeſſor <hi>Benedict,</hi> whoſe life graced with many miracles did well pleaſe thee: through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <head>At Euen-ſong.</head>
+               <l>O God incline vnto my ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>HIs ſiſters ſoule, from ſinne moſt free,</l>
+                  <l>And Beautified with heauenly loue:</l>
+                  <l>Flie vp to heauens Throne hee ſee,</l>
+                  <l>In likeneſſe of a milke white Doue.</l>
+                  <l>O bleſſed Saints of God belou'd,</l>
+                  <pb n="60" facs="tcp:181062:32"/>
+                  <l>Who lye in tomb'd both in one graue:</l>
+                  <l>One heart you had, while here yee mou'd,</l>
+                  <l>One glorie now in Heauen haue, Praiſe, honour, glorie, &amp;c.</l>
+               </div>
+               <div type="hymn">
+                  <head>An Antheme.</head>
+                  <p>Towards the Eaſt appeared a ſtraight way, reaching from his Cell, euen vnto Heauen, and a Man of venerable feature, shining in brightneſſe, ſtanding, thereby, de<g ref="char:EOLhyphen"/>manded woſe way that was? which they, confeſſing they, did not know; hee ſaid vnto them: This is the way by which <hi>Benedict,</hi> the beloued of our Lord aſcended to Heauen.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Fa<g ref="char:EOLhyphen"/>ther <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>thy, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="61" facs="tcp:181062:32"/>
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>VVE beſeech thee, O al<g ref="char:EOLhyphen"/>mightie God, by the merits and prayers of the moſt bleſ<g ref="char:EOLhyphen"/>ſed Father Sainct <hi>Benedict,</hi> and of his diſciples Saint <hi>Placidus,</hi> and Saint <hi>Maurus,</hi> and of the Virgin his ſiſter Saint <hi>Scholaſtica,</hi> and of all holy Monkes and Nunnes, which vnder his Banner and conduct fought for thee, that thou wouldeſt renew in vs thy holy Spirit, by whoſe inſpi<g ref="char:EOLhyphen"/>ratio<g ref="char:cmbAbbrStroke">̄</g> wee may make warre againſt the Flesh, the World, and the Deuill and becauſe the Palme of victorie cannot be atchieued, without labo<g ref="char:EOLhyphen"/>rious battell; giue vs in aduerſitie patience, in temptation conſtancy, in perils Counſell: giue vs the puri<g ref="char:EOLhyphen"/>tie of Chaſtitie, the deſire of Pouer<g ref="char:EOLhyphen"/>tie, the fruit of Obedience, and a
+<pb n="62" facs="tcp:181062:33"/>firme purpoſe to obſerue thy Com<g ref="char:EOLhyphen"/>mandements, ſo that being ſtreng<g ref="char:EOLhyphen"/>ned with thy Conſolation, and lin<g ref="char:EOLhyphen"/>ked in brotherly Charitie, wee may ſerue thee with one heart, and ſo paſſe ouer theſe temporall things, that being crowned for our victo<g ref="char:EOLhyphen"/>ries: we may deſerue at laſt in the co<g ref="char:cmbAbbrStroke">̄</g>pagnie of thoſe Religious trou<g ref="char:EOLhyphen"/>pes, to attaine vnto thoſe eternall good things: Through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <head>
+                  <hi>A</hi> Co<g ref="char:cmbAbbrStroke">̄</g>mpline.</head>
+               <l>Conuert vs O Lord our Sauiour,</l>
+               <l>And auert thy wrath from vs:</l>
+               <l>O God incline vnto my ayde:</l>
+               <l>O Lord make haſte to helpe me.</l>
+               <l>Glorie be to the Father, &amp;c.</l>
+               <div type="hymn">
+                  <pb n="63" facs="tcp:181062:33"/>
+                  <head>
+                     <hi>A</hi> Hymne.</head>
+                  <l>BLeſſed Patriarch wee thee pray,</l>
+                  <l>And alſo craue in humble wiſe:</l>
+                  <l>That vnto Heauen thou shew's the Way,</l>
+                  <l>Whom thou the earth taught'ſt to deſpiſe.</l>
+                  <l>Grant we may ſeeke thoſe ioye a<g ref="char:EOLhyphen"/>boue.</l>
+                  <l>And mend in vs what is amiſſe:</l>
+                  <l>That liuing here in Chriſtian loue,</l>
+                  <l>We may hereafter liue in bliſſe.</l>
+                  <l>Praiſe, honour, glorie, without end,</l>
+                  <l>To thee O ſacred Trinitie:</l>
+                  <l>Which <hi>Benedict</hi> thy faithfull frend,</l>
+                  <l>Enioyeth for all eternitie, Amen.</l>
+               </div>
+               <div type="hymn">
+                  <pb n="64" facs="tcp:181062:34"/>
+                  <head>An Antheme.</head>
+                  <p>Let the whole compagnie of all the faithfull reioyce for the glorie of the bleſſed Abbot Saint <hi>Benedict</hi> let the troupes of Religious perſons chiefly exult, celebrating is me<g ref="char:EOLhyphen"/>morie vpon earth, for whoſe ſocietie the Saints doe ioy in He<g ref="char:EOLhyphen"/>auen.</p>
+                  <p>
+                     <hi>Verſ.</hi> Pray for vs, O bleſſed Father <hi>Benedict.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>thy, &amp;c.</p>
+               </div>
+               <div type="prayer">
+                  <head>
+                     <hi>A</hi> Prayer.</head>
+                  <p>PVrifie, O God, the hearts of all thoſe, who forſaking worl<g ref="char:EOLhyphen"/>dly vanities, thou haſt encouraged to aſpire to the reward of a higher vocation, vnder the diſcipline of
+<pb n="65" facs="tcp:181062:34"/>their holy Patriarch and founder Saint <hi>Benedict,</hi> and powre thy grace into them, whereby they may per<g ref="char:EOLhyphen"/>ſeuer in thee, and by thy aſſiſtance accomplish what by thy inſpiration they haue promiſed, that ſo at<g ref="char:EOLhyphen"/>chieuing the perfectio<g ref="char:cmbAbbrStroke">̄</g>, which they profeſſe, they may alſo merit to at<g ref="char:EOLhyphen"/>taine to the reward, by thee pro<g ref="char:EOLhyphen"/>poſed, to ſuch as should perſeuer in thee. Through our Lord Ieſus-Chriſt, who with thee liueth and raigneth in vnitie of the holy Ghoſt Amen.</p>
+               </div>
+            </div>
+         </div>
+         <div type="recommendation">
+            <head>
+               <hi>A</hi> filiall recommendation to the moſt bleſſed Father Saint Benedict.</head>
+            <p>O Moſt glorious Father Saint <hi>Benedict,</hi> the Gouernour and
+<pb n="66" facs="tcp:181062:35"/>Leader of ſuch as profeſſe Monaſti<g ref="char:EOLhyphen"/>call diſcipline, hope, and ſolace of all them, that heartily implore thy aſſiſtance; I humbly recommend mee to thy holy protection, that for the excellency of thy merits, thou wilt vouchſafe to defend me from all euills hurtfull to my ſoule: and that out of the aboundance of thy pietie, thou wilt obtayne for mee the gift of compunction and teares, that I may worthily and abundant<g ref="char:EOLhyphen"/>ly bewaile my great wickedneſſe and offences, whereby I haue ofte<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>times euen from my child-hood, prouoked to anger my louing and gracious Lord Ieſus-Chriſt; and that I may alſo worthily praiſe and reuerence thee: O moſt precious Oliue, and fruitfull Vine in the houſe of God: O moſt ſolid veſſel adorned with all kindes of precious ſtones, choſen according to Gods
+<pb n="67" facs="tcp:181062:35"/>owne heart, moſt ſweet and with innumerable gifts of graces, like ſo many gliſtring Pearles embelli<g ref="char:EOLhyphen"/>zed: thee I beſeech, thee I pray, thee with all the affection of my heart, with all the de<g ref="char:EOLhyphen"/>ſires of my ſoule I implore, that thou wilt vouchſafe, to be mindfull of me wretched ſinner with Al<g ref="char:EOLhyphen"/>mightie God, that of his infinite goodneſſe, he will bee pleaſed to forgiue mee all my ſinnes, and conſerue me in vertues; and that for no cauſe or neceſſitie what<g ref="char:EOLhyphen"/>ſoeuer, he will ſuffer mee to depart from him; but that together with thee, O louing Father, hee will admit mee into the companie of his Saints, and to that bliſſefull vi<g ref="char:EOLhyphen"/>ſion of himſelfe, where together with thee, and that glorious Armie of Religious perſons, who fought vnder thy Banner, I may for euer
+<pb n="68" facs="tcp:181062:36"/>enioy the preſence of my God, and my Lord Ieſus Chriſt, who with the Father, and the holy Ghoſt, li<g ref="char:EOLhyphen"/>ueth and raigneth, for euer and euer. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:181062:36"/>
+            <pb facs="tcp:181062:37" rendition="simple:additions"/>
+            <pb facs="tcp:181062:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
